@@ -1,0 +1,8 @@
+*.parquet
+*.toml
+*.csv
+*.pdf
+*.zip
+*.log
+*.txt
+venv/
